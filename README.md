@@ -11,4 +11,5 @@ Framework support
 5.Copy/Paste rayne.ini into C:\Program Files (x86)\Steam\steamapps\common\BloodRayne\system or 
 C:\Program Files (x86)\GOG Galaxy\Games\BloodRayne\system 
 
-6.Enjoy the game
+6.(For Steam versions only) Copy/Paste rayne.exe into 
+C:\Program Files (x86)\Steam\steamapps\common\BloodRayne\
